@@ -3,7 +3,7 @@
 
 - My projects are regularly updated at [my website](https://lymengblog.vercel.app/)
 
-- 📫 How to reach me **lymengnaret@yahoo.com** or through my [linkedin](https://www.linkedin.com/in/lymeng-naret-5b09131ba/)
+- 📫 How to reach me **lymengnaret@yahoo.com** or through my [linkedin](https://www.linkedin.com/in/lymengnaret/)
 
 <p align="left">
 </p>
