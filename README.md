@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lymeng</h1>
-<h3 align="center">I am currently studying Computer Science at University of British Columbia.</h3>
+<h3 align="center">I am currently working as SDE in Test at Safe Software. I studied Computer Science at University of British Columbia and graduated in 2024.</h3>
 
 - My projects and resume are regularly updated at [my website (interactive portfolio)](https://lymengblog.vercel.app/)
 
